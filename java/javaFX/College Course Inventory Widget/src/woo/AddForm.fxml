@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="206.0" prefWidth="437.0" stylesheets="@CourseInventory_leesungwoo.css" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.40" fx:controller="woo.AddFormController">
+    <stylesheets>
+        <URL value="@CourseInventory_leesungwoo.css" />
+    </stylesheets>
+   <children>
+      <Label layoutX="15.0" layoutY="15.0" text="Enter new Course ID, Title, Credit and Category" />
+      <Label alignment="CENTER_RIGHT" layoutX="17.0" layoutY="50.0" prefHeight="17.0" prefWidth="51.0" text="ID:" textAlignment="CENTER" />
+      <Label alignment="CENTER_RIGHT" layoutX="17.0" layoutY="89.0" prefHeight="17.0" prefWidth="51.0" text="Title:" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="17.0" layoutY="127.0" prefHeight="17.0" prefWidth="51.0" text="Credit:" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="17.0" layoutY="166.0" text="Category:" textAlignment="RIGHT" />
+      <TextField fx:id="textId" layoutX="79.0" layoutY="46.0" />
+      <TextField fx:id="textTitle" layoutX="79.0" layoutY="85.0" prefHeight="25.0" prefWidth="336.0" />
+      <TextField fx:id="textCredit" layoutX="79.0" layoutY="123.0" />
+      <ComboBox fx:id="comboCategory" layoutX="79.0" layoutY="162.0" prefWidth="150.0" />
+      <Button fx:id="buttonAdd" layoutX="276.0" layoutY="162.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Add" />
+      <Button fx:id="buttonCancel" layoutX="349.0" layoutY="162.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+   </children>
+</AnchorPane>

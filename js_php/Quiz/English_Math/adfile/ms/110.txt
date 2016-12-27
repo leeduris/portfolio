@@ -1,0 +1,23 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+The jogging track in a sports complex is 726 m in circumference. Suresh and his wife start from the same point and walk in opposite direction at 4.5 km/hr and 3.75 km/hr respectively. They will meet for the first time in:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let both of them meet after T min
+4500 m are covered by Suresh in 60 m.
+In T min he will cover 4500*T/60
+Likewise, In T min Suresh's wife will cover 3750*T/60
+Given,
+4500*T/60 + 3750*T/60 = 726
+T = 5.28 minutes

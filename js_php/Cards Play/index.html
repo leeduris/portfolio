@@ -1,0 +1,46 @@
+<!--
+ * create main html page to display card game and
+ * to draw div elements from external javascript.
+ * name: Sung Woo Lee(leeduris@gmail.com)
+ * create date: Jan 22 2016
+ * update date: Jan 28 2016
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Woo Card Game</title>
+    <style media="screen">
+
+		/* bottom layer to contain new tags */
+        #container
+        {
+			width: 80%;
+            height: 80%;
+            position: absolute;
+            background: yellow;
+            margin: 3% 5% 2% 10%;
+            opacity: 30%;
+        }
+
+	</style>
+</head>
+<body>
+
+<!-- base layer to contain elements which is created from javascript file. -->
+<div id = "container">
+</div>
+
+<!-- image button to execute functions of card games-->
+<div id = "play" onclick="cardSuffle(); cardMove(); ">
+    <image src = "images/card/click.png" alt = "Click!">
+</div>
+
+<!-- import a javascript function to suffle cards -->
+<script src="scripts/suffle.js" type = "text/javascript"></script>
+
+<!-- import a javascript function to show cards movements -->
+<script src="scripts/cardmove.js" type = "text/javascript"></script>
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+Enter a hex character: E
+The binary value is 1110

@@ -1,0 +1,2 @@
+Enter a string: HELLO, WORLD
+The reversed string is DLROW ,OLLEH

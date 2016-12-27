@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Special Characters</h1>
+
+    <p><kbd>The backslash escape character turns special characters into string characters:</kbd></p>
+
+    <table>
+      <tr><th>Code</th><th>Outputs</th></tr>
+      <tr><td>\'</td><td>single quote</td></tr>
+      <tr><td>\"</td><td>double quote</td></tr>
+      <tr><td>\\</td><td>backslash</td></tr>
+      <tr><td>\n</td><td>new line</td></tr>
+      <tr><td>\r</td><td>carriage return</td></tr>
+      <tr><td>\t</td><td>tab</td></tr>
+      <tr><td>\b</td><td>backspace</td></tr>
+    	<tr><td>\f</td><td>form feed</td></tr>
+    </table>
+
+    <p><button onclick="functionjs134()">Look at "backslash escape"</button></p>
+    <p><cite id="idjs134">It\'s alright.<br>We are the so-called \"Vikings\" from the north.</cite></p>
+
+    <script>
+      function functionjs134() {
+        var x = 'It\'s alright';
+        var y = "We are the so-called \"Vikings\" from the north.";
+        document.getElementById("idjs134").innerHTML = x + "<br>" + y;
+      }
+    </script>
+
+  </body>
+</html>

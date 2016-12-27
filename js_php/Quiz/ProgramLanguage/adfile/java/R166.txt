@@ -1,0 +1,13 @@
+Input scissor (0), rock (1), paper (2): 1
+You lost (Computer: 2)
+Your Win Counter is -1
+
+Input scissor (0), rock (1), paper (2): 1
+You lost (Computer: 2)
+Your Win Counter is -2
+
+Input scissor (0), rock (1), paper (2): 1
+You lost (Computer: 2)
+Your Win Counter is -3
+
+The computer won more than two times

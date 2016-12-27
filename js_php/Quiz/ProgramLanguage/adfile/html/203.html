@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <label class = 'title'> The form Attribute </label>
+
+    <p>The form attribute specifies one or more forms an &lt;input> element belongs to.</p>
+    <p>Tip: To refer to more than one form, use a space-separated list of form ids.</p><br>
+
+    <form action="#" id="form1">
+    First name: <input type="text" name="fname"><br>
+    <input type="submit" value="Submit">
+    </form>
+
+    <p>The "Last name" field below is outside the form element, but still part of the form.</p>
+    Last name: <input type="text" name="lname" form="form1">
+
+  </body>
+</html>

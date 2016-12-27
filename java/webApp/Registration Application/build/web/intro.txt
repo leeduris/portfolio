@@ -1,0 +1,6 @@
+        <section class="intro">
+            <h2>Lost at Java?</h2>
+            <h3>Relax - we've got your rudder.</h3>
+            <h4>Enjoy - you can swim like a fish.</h4>
+            <h5>Learn - become a master of everything in Java.</h5>
+        </section>

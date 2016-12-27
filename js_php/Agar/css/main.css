@@ -1,0 +1,49 @@
+/*     main.css
+
+        main css of bacteria game
+
+        Author: Sung Woo Lee(leeduris@gmail.com)
+        Created: 2016-02-06
+        Updated: 2016-02-11
+*/
+
+/*make space zero*/
+html, body
+{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+
+/*no scroll*/
+body
+{
+        overflow: hidden;
+}
+
+/*assign the position to the game pieces*/
+.food, .bacteria, .baccine
+{
+        position: absolute;
+}
+
+/*assign the size to the image of game pieces*/
+img
+{
+        max-width: 90%;
+        height: auto;
+}
+
+/*assign the block display to images and score of each game pieces*/
+span
+{
+        display: block;
+}
+
+/*positioning the elements of button and instruction*/
+.container
+{
+        text-align: center;
+        margin-top: 5%;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <label class = 'title'> The formnovalidate Attribute </label>
+
+    <p>The formtarget attribute specifies a name or a keyword that indicates where to display the response that is received after submitting the form.</p>
+    <p>The formtarget attribute overrides the target attribute of the <form> element.</p>
+    <p>The formtarget attribute can be used with type="submit" and type="image".</p><br>
+
+    <form action="">
+      First name: <input type="text" name="fname"><br>
+      Last name: &nbsp;<input type="text" name="lname"><br><br>
+      <input type="submit" value="Submit as normal">
+      <input type="submit" formtarget="_blank" value="Submit to a new window/tab">
+    </form>
+
+    <p><strong>Note:</strong> The formtarget attribute of the input tag is not supported in Internet Explorer 9 and earlier versions.</p>
+
+  </body>
+</html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.input.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="361.0" prefWidth="622.0" stylesheets="@CourseInventory_leesungwoo.css" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="woo.MainFormController">
+   <children>
+      <MenuBar layoutX="-2.0" prefHeight="28.0" prefWidth="553.0" style="-fx-border-color: #ccddee;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="menuOpen" mnemonicParsing="false" onAction="#handleMenuOpen" text="Open..." />
+                  <MenuItem fx:id="menuSave" mnemonicParsing="false" onAction="#handleMenuSave" text="Save As..." />
+                  <MenuItem fx:id="menuExit" mnemonicParsing="false" onAction="#handleMenuExit" text="Exit..." />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+               <items>
+                  <MenuItem fx:id="menuEdit" mnemonicParsing="false" text="Edit Course" />
+                  <MenuItem fx:id="menuAdd" mnemonicParsing="false" text="Add Course" />
+                  <MenuItem fx:id="menuDelete" mnemonicParsing="false" text="Delete Course" />
+                  <MenuItem fx:id="menuSearch" mnemonicParsing="false" text="Search Course" />
+               </items></Menu>
+          <Menu mnemonicParsing="false" text="Help">
+               <items>
+                  <MenuItem fx:id="menuAbout" mnemonicParsing="false" onAction="#handleMenuAbout" text="About" />
+               </items></Menu>
+        </menus>
+      </MenuBar>
+      <Label layoutX="21.0" layoutY="39.0" text="Category" AnchorPane.leftAnchor="21.0" AnchorPane.topAnchor="39.0" />
+      <ComboBox fx:id="comboCategory" layoutX="20.0" layoutY="62.0" prefHeight="27.0" prefWidth="130.0" style="-fx-border-color: #ccddee;" />
+      <ListView fx:id="listId" layoutX="20.0" layoutY="124.0" prefHeight="167.0" prefWidth="130.0" style="-fx-border-color: #ccddee;" />
+      <Button fx:id="buttonSearch" layoutX="20.0" layoutY="307.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="130.0" style="-fx-border-color: #ccddee;" text="Search Course" />
+      <Label layoutX="21.0" layoutY="104.0" text="Course IDs" />
+      <GridPane layoutX="199.0" layoutY="124.0" prefHeight="111.0" prefWidth="402.0" style="-fx-border-color: #ccddee;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="151.0" minWidth="10.0" prefWidth="83.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="317.0" minWidth="10.0" prefWidth="317.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="77.0" text="Title : " textAlignment="RIGHT" />
+            <Label alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="77.0" text="Credit : " textAlignment="RIGHT" GridPane.rowIndex="1" />
+            <Label alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="77.0" text="Category : " textAlignment="RIGHT" GridPane.rowIndex="2" />
+            <TextField fx:id="textCredit" prefHeight="29.0" prefWidth="0.0" style="-fx-border-color: #ccddee;" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="textTitle" prefHeight="29.0" prefWidth="0.0" style="-fx-border-color: #ccddee;" GridPane.columnIndex="1" />
+            <ComboBox fx:id="comboCategory2" prefHeight="30.0" prefWidth="317.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+      </GridPane>
+      <Label layoutX="199.0" layoutY="104.0" text="Course" />
+      <Button fx:id="buttonEdit" layoutX="199.0" layoutY="239.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" style="-fx-border-color: #ccddee;" text="Edit Course" />
+      <Button fx:id="buttonDelete" layoutX="199.0" layoutY="273.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" style="-fx-border-color: #ccddee;" text="Delete Course" />
+      <Button fx:id="buttonAdd" layoutX="198.0" layoutY="307.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" style="-fx-border-color: #ccddee;" text="Add New Course" />
+      <Label fx:id="labelStatus" layoutX="199.0" layoutY="49.0" prefHeight="44.0" prefWidth="340.0" wrapText="true" />
+      <Button fx:id="buttonSave" layoutX="433.0" layoutY="238.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="77.0" style="-fx-border-color: #ccddee;" text="Save" />
+      <Button fx:id="buttonCancel" layoutX="522.0" layoutY="238.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="77.0" style="-fx-border-color: #ccddee;" text="Cancel" />
+   </children>
+</AnchorPane>

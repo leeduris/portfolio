@@ -1,0 +1,2 @@
+Enter x1, y1, x2, y2, x3, y3: 24 56 78 98 123 3
+The area of the triangle is 3510.00

@@ -1,0 +1,3 @@
+<label class = 'title'>selection sort</label>
+Write the program by finding the largest number and swapping it with the last. Write a test program that reads in ten double
+numbers, invokes the method, and displays the sorted numbers.

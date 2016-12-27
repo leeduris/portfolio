@@ -1,0 +1,18 @@
+<label class = 'title'>Health application: BMI</label>
+Compute And interpret BMI to let the user enter weight, feet, and inches. 
+For example, if a person is 5 feet and 10 inches, you will enter 5 for feet 
+and 10 for inches. 
+
+BMI                 Interpretation
+-----------------   --------------
+BMI < 18.5          Underweight
+18.5 ≤ BMI < 25.0   Normal
+25.0 ≤ BMI < 30.0   Overweight
+30.0 ≤ BMI          Obese
+
+Here is a sample run:
+Enter weight in pounds: 140  [enter]
+Enter feet: 5  [enter]
+Enter inches: 10  [enter]
+BMI is 20.087702275404553
+Normal

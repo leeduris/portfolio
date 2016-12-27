@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="281.0" prefWidth="445.0" stylesheets="@CourseInventory_leesungwoo.css" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="woo.SearchFormController">
+   <children>
+      <Label layoutX="19.0" layoutY="24.0" text="Search By : " />
+      <RadioButton fx:id="radioId" layoutX="83.0" layoutY="24.0" mnemonicParsing="false" selected="true" text="ID">
+         <toggleGroup>
+            <ToggleGroup fx:id="radioGroup" />
+         </toggleGroup></RadioButton>
+      <RadioButton fx:id="radioTitle" layoutX="126.0" layoutY="24.0" mnemonicParsing="false" text="Title" toggleGroup="$radioGroup" />
+      <TextField fx:id="textSearch" layoutX="180.0" layoutY="20.0" prefHeight="25.0" prefWidth="170.0" />
+      <Button fx:id="buttonSearch" layoutX="355.0" layoutY="20.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="72.0" text="Search" />
+      <ListView fx:id="listIdTitle" layoutX="17.0" layoutY="52.0" prefHeight="172.0" prefWidth="411.0" />
+      <Button fx:id="buttonSelect" layoutX="265.0" layoutY="240.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="72.0" text="Select" />
+      <Button fx:id="buttonCancel" layoutX="355.0" layoutY="240.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="72.0" text="Cancel" />
+   </children>
+</AnchorPane>

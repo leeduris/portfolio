@@ -1,0 +1,2 @@
+Enter a three-digit integer: 568
+568 is not a palindrome

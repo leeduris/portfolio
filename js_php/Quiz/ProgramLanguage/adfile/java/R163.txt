@@ -1,0 +1,14 @@
+Enter a year: 2015
+Enter the first day of the year: (0 Sunday 1 Monday, ---, 6 Saturday)4
+January 1, 2015 is Thursday
+February 1, 2015 is Sunday
+March 1, 2015 is Sunday
+April 1, 2015 is Wednesday
+May 1, 2015 is Friday
+June 1, 2015 is Monday
+July 1, 2015 is Wednesday
+August 1, 2015 is Saturday
+September 1, 2015 is Tuesday
+October 1, 2015 is Thursday
+November 1, 2015 is Sunday
+December 1, 2015 is Tuesday

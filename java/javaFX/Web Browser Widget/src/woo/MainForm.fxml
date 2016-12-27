@@ -1,0 +1,29 @@
+<!--/////////////////////////////////////////////
+// MainForm.fxml
+// ================
+// V in MVC Classes.
+//
+// AUTHOR: Sung Woo Lee (leeduris@gmail.com)
+// CREATED: 2016-03-14
+// UPDATED: 2016-03-23
+/////////////////////////////////////////////-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="461.0" prefWidth="696.0" stylesheets="@WebBrowserAssign3.css" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="woo.MainFormController">    
+    <children>
+      <Button fx:id="prevButton" layoutX="7.0" layoutY="14.0" mnemonicParsing="false" onAction="#handlePrevButton" prefHeight="25.0" prefWidth="50.0" style="-fx-background-color: #ccddee;" text="Prev" />
+      <Button fx:id="nextButton" layoutX="64.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="50.0" style="-fx-background-color: #ccddee;" text="Next" />
+      <Button fx:id="goButton" layoutX="646.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleGo" prefHeight="25.0" prefWidth="42.0" style="-fx-background-color: #ccddee;" text="Go" AnchorPane.rightAnchor="8.0" />
+      <TextField fx:id="goUrl" layoutX="129.0" layoutY="14.0" onAction="#handleGo" prefHeight="25.0" prefWidth="503.0" promptText="Enter URL" AnchorPane.leftAnchor="129.0" AnchorPane.rightAnchor="64.0" />
+      <ProgressBar fx:id="processBar" layoutX="129.0" layoutY="14.0" opacity="0.5" prefHeight="25.0" prefWidth="503.0" progress="1.0" visible="false" AnchorPane.leftAnchor="129.0" AnchorPane.rightAnchor="64.0" />
+      <WebView id="webView" fx:id="webView" layoutY="48.0" prefHeight="408.0" prefWidth="697.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="48.0" />
+    </children>
+</AnchorPane>

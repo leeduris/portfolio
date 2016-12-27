@@ -1,0 +1,30 @@
+
+/*custom font*/
+@font-face
+{
+    font-family:DS-Digital;
+    src:url("DS-DIGI.TTF");
+}
+
+/*set background color */
+#AnchorPane 
+{
+    -fx-background-color: transparent;
+}
+
+/*set font style and add effects */
+#labeldisplay
+{
+    -fx-font-family: DS-Digital;
+    -fx-font-size: 41;
+    -fx-font-weight: bold;
+    -fx-text-fill: linear-gradient(to right, orange, blue); 
+    -fx-effect: dropshadow(three-pass-box , rgba(0,255,0,0.5) , 10, 0 , 5 , 5);
+}
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+6
+<h1>Express an opinion</h1>
+Some people think children should be taught how to cook at scool, others think that it is their parent's responsibility to teach them. What is your opinion and why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>cooking class at school</h3>
+1. students can have fun with their classmates
+2. They can learn more accurate recipe
+3. Teachers can teach how to use fire and cooking tools safely.
+
+<h3>cooking at home</h3>
+1. parent's responsibility to teach children life skills
+2. have some time with their parents
+3. cooking class can be one of the subjects which are stressful for children.

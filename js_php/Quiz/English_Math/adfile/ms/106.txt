@@ -1,0 +1,21 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+A passenger train takes two hours less for a journey of 300 km if its speed is increased by 5 km/hr from its normal speed. The normal speed is:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let the normal speed be 's' km/hr
+Then new speed = (s+5) km/hr
+300/s − 2 = 300/(s+5)
+On solving this equation we get:
+s = 25 km/hr

@@ -1,0 +1,2 @@
+Enter a point with two coordinates: 17.2 14.8
+Point (17.2, 14.8) is not in the circle

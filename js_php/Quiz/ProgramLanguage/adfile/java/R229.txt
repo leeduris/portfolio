@@ -1,0 +1,3 @@
+Previous Closing Price: 34.5
+Current Price: 34.35
+Price Change: -0.43%

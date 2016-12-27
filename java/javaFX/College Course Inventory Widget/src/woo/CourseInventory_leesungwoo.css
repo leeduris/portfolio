@@ -1,0 +1,35 @@
+
+#AnchorPane
+{
+    -fx-background-color: #ECF5F9;   
+}
+
+.label
+{
+    -fx-text-fill: #1C543E;  
+    -fx-font-weight: bold;
+}
+
+.button
+{
+    -fx-text-fill: #716ECF;  
+    -fx-font-weight: bold;
+    -fx-background-color: #EDF1D5;
+}
+
+.button:hover 
+{
+    -fx-background-color: #98DDA1;
+}
+
+#labelStatus 
+{
+    -fx-font-size: 12;
+    -fx-text-fill: orange; 
+}
+
+#textCredit, #textTitle, #comboCategory2 .cell
+{
+    -fx-text-fill: #B4703C;
+    -fx-font-weight: bold;
+}

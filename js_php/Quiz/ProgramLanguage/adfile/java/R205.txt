@@ -1,0 +1,5 @@
+5 of Hearts
+2 of Diamonds
+5 of Spades
+Jack of Clubs
+Number of picks: 24

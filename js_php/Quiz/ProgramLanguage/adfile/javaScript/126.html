@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Difference Between Undefined and Null</h1>
+
+    <p><kbd>In JavaScript null is "nothing". It is supposed to be something that doesn't exist.</kbd></p>
+    <p><kbd>In JavaScript, the data type of null is an object.</kbd></p>
+    <p><kbd>In JavaScript, a variable without a value, has the value undefined. The typeof is also undefined.</kbd></p>
+    <p><kbd>You can also empty an object by setting it to undefined.</kbd></p>
+
+    <p><cite id="idjs126"></cite></p>
+
+    <script>
+      var personjs126 = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+      var personjs126 = undefined;
+      document.getElementById("idjs126").innerHTML =
+        typeof personjs126 + "<br>" +
+        typeof undefined + "<br>" +
+        typeof null + "<br>" +
+        (null === undefined) + "<br>" +
+        (null == undefined);
+    </script>
+
+  </body>
+</html>

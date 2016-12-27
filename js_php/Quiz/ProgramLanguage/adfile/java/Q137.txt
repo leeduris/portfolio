@@ -1,0 +1,5 @@
+<label class = 'title'>Random points on a circle</label>
+Write a program that generates three random points on a circle centered 
+at (0, 0) with radius 40. 
+(Hint: Generate a random angle a in radians between 0 and 2π, and the 
+point determined by this angle is (r*cos(a), r*sin(a)).)

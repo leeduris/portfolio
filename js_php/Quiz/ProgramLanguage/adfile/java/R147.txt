@@ -1,0 +1,7 @@
+Enter the amount: 11.56
+Your amount 11.56 consists of 
+    11 dollars
+    2 quarters
+    0 dimes
+    1 nickels
+    1 pennies

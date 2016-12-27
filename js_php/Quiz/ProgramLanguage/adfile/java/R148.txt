@@ -1,0 +1,29 @@
+What is 5 + 12? 14
+Your answer is wrong.
+5 + 12 should be 17
+What is 3 + 9? 15
+Your answer is wrong.
+3 + 9 should be 12
+What is 6 + 13? 16
+Your answer is wrong.
+6 + 13 should be 19
+What is 10 + 1? 11
+You are correct!
+What is 12 + 7? 15
+Your answer is wrong.
+12 + 7 should be 19
+What is 5 + 7? 12
+You are correct!
+What is 13 + 10? 23
+You are correct!
+What is 12 + 11? 23
+You are correct!
+What is 3 + 6? 24
+Your answer is wrong.
+3 + 6 should be 9
+What is 15 + 4? 12
+Your answer is wrong.
+15 + 4 should be 19
+
+Correct count is 4 out of 10
+Time spent is 19 seconds

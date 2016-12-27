@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Global JavaScript Variables</h1>
+
+    <p><kbd>A variable declared outside a function, becomes GLOBAL.</kbd></p>
+    <p><kbd>A global variable has global scope: All scripts and functions on a web page can access it.</kbd></p>
+
+    <p><cite id="idjs131"></cite></p>
+
+    <script>
+      var carNamejs131 = "Volvo";
+      functionjs131();
+
+      function functionjs131() {
+          document.getElementById("idjs131").innerHTML =
+          "I can display " + carNamejs131;
+      }
+    </script>
+
+  </body>
+</html>

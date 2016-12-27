@@ -1,0 +1,7 @@
+<label class = 'title'>Execution time</label>
+Write a program that randomly generates an array of 100,000 integers and a key. Estimate the execution time of invoking the linearSearch method. Sort the array and estimate the execution time of invoking the binarySearch method. You can use the following code template to obtain the execution time:
+
+long startTime = System.currentTimeMillis();
+perform the task;
+long endTime = System.currentTimeMillis();
+long executionTime = endTime - startTime;

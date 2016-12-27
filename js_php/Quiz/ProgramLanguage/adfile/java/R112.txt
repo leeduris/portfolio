@@ -1,0 +1,4 @@
+Enter speed v: 100
+Enter acceleration a: 4
+The minimum runway length for this airplane is 1250.0 meters
+

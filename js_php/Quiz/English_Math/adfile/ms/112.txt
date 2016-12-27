@@ -1,0 +1,25 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 am and travel towards B at 20 km/hr speed. Another train starts from B at 8 am and travel towards A at 25 km/hr speed. At what time will they meet?
+
+
+
+
+
+
+
+
+
+
+
+
+
+In 1 hour (7 am to 8 am) tarin from station A travels 20 km distance and reaches to C, (say).
+A ----------------- C ---------------B
+7 am ------------------------------- 8 am
+AC = 20 km, CB = 90 km
+Distance travelled in 1 hour = 20 km
+Remaining distance = 110−20 = 90 km
+Time=Distance/Speed
+90/(20+25) = 2 hours
+So, time = 8 am + 2 am = 10 am

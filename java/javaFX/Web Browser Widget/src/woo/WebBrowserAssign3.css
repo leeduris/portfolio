@@ -1,0 +1,15 @@
+/*
+ WebBrowserAssign3.css
+ ================
+ css file.
+
+ AUTHOR: Sung Woo Lee (leeduris@gmail.com)
+ CREATED: 2016-03-14
+ UPDATED: 2016-03-23
+*/
+
+/*set background image */
+#AnchorPane {
+    -fx-background-image:url("./data/dogonbeach.jpg");
+    -fx-background-size:cover;
+}

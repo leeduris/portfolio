@@ -1,0 +1,9 @@
+<label class = 'title'>Order three cities</label>
+Write a program that prompts the user to enter three cities and
+displays them in ascending order.
+
+Here is a sample run:
+Enter the first city: Chicago
+Enter the second city: Los Angeles
+Enter the third city: Atlanta
+The three cities in alphabetical order are Atlanta Chicago Los Angeles

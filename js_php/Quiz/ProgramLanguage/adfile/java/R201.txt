@@ -1,0 +1,4 @@
+6310
+Execution time for linear search is 3 seconds
+16848
+Execution time for binary search is 1 seconds

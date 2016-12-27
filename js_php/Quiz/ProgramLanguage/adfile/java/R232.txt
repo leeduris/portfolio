@@ -1,0 +1,8 @@
+speed 3
+color yellow
+radius 10.0
+fan is on
+speed 2
+color blue
+radius 5.0
+ fan is off

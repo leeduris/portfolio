@@ -1,0 +1,4 @@
+<label class = 'title'>Decimal to octal</label>
+Write a program that prompts the user to enter a decimal
+integer and displays its corresponding octal value. Don’t 
+use Java’s Integer.toOctalString(int) in this program.

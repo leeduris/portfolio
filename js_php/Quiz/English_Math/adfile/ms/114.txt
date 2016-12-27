@@ -1,0 +1,17 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+An aircraft carrier made a trip to Guam and back. The trip there took three hours and the trip back took four hours. It averaged 6 km/h on the return trip. Find the average speed of the trip there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 km/h

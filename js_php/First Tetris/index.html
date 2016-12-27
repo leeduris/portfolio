@@ -1,0 +1,31 @@
+<!--
+ * create main html page to display card game and
+ * to draw div elements from external javascript.
+ * name: Sung Woo Lee(leeduris@gmail.com)
+ * create date: Jan 22 2016
+ * update date: Jan 28 2016
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Woo Ball Tetris Game</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/ball.css">
+</head>
+
+<body onload="startGame()">
+
+	<!-- canvas element to contain the game -->
+	<section>
+		<canvas></canvas> 
+		<div id = "insert"></div>
+	</section>			
+	
+	<!-- import a javascript function to Ball Tetris Game -->
+	<script src="scripts/balltetris.js" type = "text/javascript"></script> 	
+		
+	</div>	
+</body>
+</html>

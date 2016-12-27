@@ -1,0 +1,3 @@
+Three random points are (an integer between 0 and 127)
+Enter an ASCII code: 100
+The character for ASCII code 100 is d

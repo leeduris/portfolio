@@ -1,0 +1,19 @@
+Enter loan amount, for example 120000.95: 150000
+Enter number of years as an integer, for example 5: 1
+Enter yearly interest rate, for example 8.25: 3.1
+Monthly Payment: 12710.88
+Total Payment: 152530.66
+
+Payment#    Interest  Principal   Balance
+1           387.5     12323.38    137676.62
+2           355.66    12355.22    125321.4
+3           323.74    12387.14    112934.26
+4           291.74    12419.14    100515.12
+5           259.66    12451.22    88063.9
+6           227.49    12483.39    75580.5
+7           195.24    12515.64    63064.86
+8           162.91    12547.97    50516.89
+9           130.5     12580.38    37936.51
+10          98.0      12612.88    25323.63
+11          65.41     12645.47    12678.16
+12          32.75     12678.13    0.03

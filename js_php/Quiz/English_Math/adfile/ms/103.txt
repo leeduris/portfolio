@@ -1,0 +1,19 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+Two trains starting at the same time from 2 stations 200 km apart and going in opposite direction cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?
+
+
+
+
+
+
+
+
+
+
+
+
+
+In same time, they cover 110 km and 90 km respectively.
+For the same time speed and distance is inversely proportional.
+So ratio of their speed = 110:90 = 11: 9

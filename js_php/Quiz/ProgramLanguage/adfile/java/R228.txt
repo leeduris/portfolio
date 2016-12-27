@@ -1,0 +1,18 @@
+Enter number n: 3
+Enter 3 rows of letters separated by spaces:
+A B C
+B C A
+C A B
+The input array is a Latin square
+Enter number n: 3
+Enter 3 rows of letters separated by spaces:
+AB C D
+Wrong input: you need to enter single letters
+Enter number n: 3
+Enter 3 rows of letters separated by spaces:
+A B
+Wrong input: you need to enter exactly 3 letters
+Enter number n: 3
+Enter 3 rows of letters separated by spaces:
+A B D
+Wrong input: the letters must be from A to C
