@@ -1,0 +1,31 @@
+.ui-icon-book:after
+{
+	background-image: url("images/Book.ico");
+	background-size: 25px 25px;
+}
+
+.ui-icon-indigo:after
+{
+	background-image: url("images/indigo.png");
+	background-size: 25px 25px;
+}
+
+.width-a {
+    width: 70% !important;
+}
+
+.width-b {
+    width: 30% !important;    
+}
+
+.width-c {
+    width: 90% !important;
+}
+
+.width-d {
+    width: 10% !important;    
+}
+
+#indigo{
+	margin-left: 40px;
+}

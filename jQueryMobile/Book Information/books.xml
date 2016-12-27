@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<leesungw>
+	<site>Books Information</site>
+	<student program="Compter Programmer" number="991419484">Sungwoo Lee</student>
+	<book>
+		<name image="_images/book1.jpg">The Throwback Special</name>
+		<abbr>Throw</abbr>
+		<desc type="Comic Ficture">
+		Here is the absorbing story of twenty-two men who gather every fall to painstakingly reenact what ESPN called “the most shocking play in NFL history” and the Washington Redskins dubbed the “Throwback Special”: the November 1985 play in which the Redskins’ Joe Theismann had his leg horribly broken by Lawrence Taylor of the New York Giants live on Monday Night Football.
+		</desc>
+		<author>Chris Bachelder</author>
+		<publisher>W. W. Norton Company (March 14, 2016)</publisher>
+		<price>$21.95</price>
+		<indigo><![CDATA[https://www.chapters.indigo.ca/en-ca/books/the-throwback-special-a-novel/9780393353785-item.html?ikwid=The+Throwback+Special&ikwsec=Home&ikwidx=0]]></indigo>
+		<review>It’s unclear how the men know each other or how the tradition began, but they are united in their dependence on it. They take comfort in the routine, in the certainty of the predetermined outcome—an anchor to some semblance of serenity and stability amid their ever-changing lives.-By Jessica Weil </review>
+	</book>
+	<book>
+		<name image="_images/book2.jpg">News of the World</name>
+		<abbr>World</abbr>
+		<desc type="Adventure Ficture">
+		It is 1870 and Captain Jefferson Kyle Kidd travels through northern Texas, giving live readings to paying audiences hungry for news of the world. An elderly widower who has lived through three wars and fought in two of them, the captain enjoys his rootless, solitary existence.
+		</desc>
+		<author>Paulette Jiles</author>
+		<publisher>William Morrow (October 4, 2016)</publisher>
+		<price>$20.98</price>
+		<indigo><![CDATA[https://www.chapters.indigo.ca/en-ca/books/news-of-the-world-a/9780062573896-item.html?ikwid=News+of+the+World&ikwsec=Home&ikwidx=0]]></indigo>
+		<review>This was a truly wonderful story. While I was sad to reach the end, I'm delighted to have 4 more of Ms Jiles' books waiting for me at my library. I can honestly say that this was one of the best books I've read, and I read at least two books each week.- By ByJoe Hohmannon</review>
+	</book>
+	<book>
+		<name image="_images/book3.jpg">The Association of Small Bombs</name>
+		<abbr>Bombs</abbr>
+		<desc type="Humor Ficture">
+		When brothers Tushar and Nakul Khurana, two Delhi schoolboys, pick up their family’s television set at a repair shop with their friend Mansoor Ahmed one day in 1996, disaster strikes without warning. A bomb—one of the many “small” bombs that go off seemingly unheralded across the world—detonates in the Delhi marketplace, instantly claiming the lives of the Khurana boys, to the devastation of their parents. Mansoor survives, bearing the physical and psychological effects of the bomb. 
+		</desc>
+		<author>Karan Mahajan</author>
+		<publisher>Viking (March 22, 2016)</publisher>
+		<price>$30.57</price>
+		<indigo><![CDATA[https://www.chapters.indigo.ca/en-ca/books/the-association-of-small-bombs/9780525429630-item.html?ikwid=The+Association+of+Small+Bombs&ikwsec=Home&ikwidx=0]]></indigo>
+		<review>More than an explanation of why young activists are radicalized and more than a book about how the seeds of terrorism are sewn, The Association of Small Bombs focuses on the “truth about people.” In doing so, it claims its own niche.-By Jill I. Shtulman</review>
+	</book>
+	<book>
+		<name image="_images/book4.jpg">The Underground Railroad</name>
+		<abbr>Under</abbr>
+		<desc type="Historical Fiction">
+		Cora is a slave on a cotton plantation in Georgia. Life is hell for all the slaves, but especially bad for Cora; an outcast even among her fellow Africans, she is coming into womanhood—where even greater pain awaits. When Caesar, a recent arrival from Virginia, tells her about the Underground Railroad, they decide to take a terrifying risk and escape. Matters do not go as planned—Cora kills a young white boy who tries to capture her. Though they manage to find a station and head north, they are being hunted.
+		</desc>
+		<author>Colson Whitehead </author>
+		<publisher>Doubleday; 1St Edition edition (August 2, 2016)</publisher>
+		<price>$30.99</price>
+		<indigo><![CDATA[https://www.chapters.indigo.ca/en-ca/books/the-underground-railroad-oprahs-book/9780385542364-item.html?ikwid=The+Underground+Railroad&ikwsec=Home&ikwidx=0]]></indigo>
+		<review>I think there is a lot to think about after reading the tale of Cora. In many ways it is an allegory for our world today where prejudice unfortunately still exists and a world like Valentine can only be dreamed about.-By Shewho</review>
+	</book>
+</leesungw>

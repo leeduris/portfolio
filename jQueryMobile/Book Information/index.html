@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>jQuery Mobile - Assignment 2</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link rel="stylesheet" href="_css/jquery.mobile.css" />
+	<link rel="stylesheet" href="_css/mystyles.css" />
+	<link rel="stylesheet" href="_css/leesungw.css" />
+
+	<script src="_js/jquery.js"></script>
+	<script src="_js/jquery.mobile.js"></script>
+	<script src="_js/myscript.js"></script>
+</head>
+<body>
+<!-- Home page -->
+<div data-role="page" ata-theme="a" id="home">
+	<header data-role="header">
+		<h1 class="ui-title"></h1>
+	</header>
+
+	<section class="ui-content" role="main">
+		<ul id="bookMenu" data-role="listview" data-inset="true" data-filter="true">
+		</ul>		
+		<nav data-role="navbar" id="navhome"></nav>
+	</section>
+	
+	<footer data-role="footer">     
+	 <h4 class="ui-title"></h4>
+	</footer>
+</div>
+<!-- end of home page -->
+
+<!-- Start of individual page -->
+<div data-role="page" ata-theme="a" id="individual" data-theme="a">
+	<header data-role="header">
+		<a href="#home" class="ui-btn ui-icon-home ui-btn-icon-notext ui-corner-all">HOME</a>
+		<div id="indigo"></div>
+	</header>
+
+	<section class="ui-content" role="main">
+		<section class="ui-grid-a">
+			<div class="ui-block-a width-a" id="bookinfo"></div>
+			<div class="ui-block-b width-b" id="bookimg"></div>
+		</section>
+		
+		<section id="bookdesc"></section>
+			
+		<section data-role="collapsible" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u">
+			<h2>Display Review</h2>
+			<p id="review"></p>
+		</section>
+
+		<div id="indigo"></div>
+	</section>
+	
+	</section>
+	
+	<footer data-role="footer">
+	 <h4 class="ui-title"></h4>
+	</footer>
+</div>  <!-- end of individual page -->
+
+</body>
+</html>

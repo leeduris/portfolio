@@ -1,0 +1,50 @@
+.ui-icon-bruno:after {
+	background-image: url("images/bruno_profile.jpeg");
+	background-size: 22px 22px;
+}
+.ui-icon-douglas:after {
+	background-image: url("images/douglas_profile.jpg");
+	background-size: 22px 22px;
+}
+.ui-icon-choi:after {
+	background-image: url("images/Myungsuk_Choi.jpg");
+	background-size: 22px 22px;
+}
+.ui-icon-lee:after {
+	background-image: url("images/sungwoo_profile.jpg");
+	background-size: 22px 22px;
+}
+.studentpic {
+	width: 150px;
+}
+#departmentPop {
+	width:600px;
+	height:300px;
+}
+#depDesc, #depTitle {
+	padding-left : 5px;
+	padding-right : 5px;
+}
+.ui-icon-sheridan:after {
+	background-image: url("images/sheridan.jpg");
+	background-size: 22px 22px;
+}
+#hostpitalInfo1, #infoTitle {
+	padding-left : 20px;
+
+}
+#infoTitle, #hostpitalInfo1, #hostpitalInfo2 {
+	color: black;
+}
+.hospitalDesc {
+	padding :0px;
+	margin: 0px;
+	color: #000;
+}
+#mapCanvas {
+	width:630px;
+	height:200px;
+}
+#infoTitle {
+	color : black;
+}

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<title>Web Mobile Group Project Title</title>
+
+	<!-- links to stylesheets -->
+	<link rel="stylesheet" href="_css/jquery.mobile.css" />
+	<link rel="stylesheet" href="_css/mystyles.css" />
+	<link rel="stylesheet" href="_css/group.css" />
+
+	<!-- links to js files -->
+	<script src="_js/jquery.js"></script>
+	<script src="_js/jquery.mobile.js"></script>
+	<script src="_js/myscripts.js"></script>
+
+	<!-- links to google maps api -->
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&sensor=false&language=en"></script>
+</head>
+<body>
+
+<div data-role="page" id="home">
+	<header data-role="header">
+		<h1 class="ui-title">Sunnybrook Hospital</h1>
+	</header>
+
+	<section data-role="content">
+		<div>
+			<a href="#terms" class="ui-btn ui-corner-all ui-icon-bullets ui-btn-icon-left ui-shadow">Terms</a>
+			<a href="#hospital" class="ui-btn ui-corner-all ui-icon-plus ui-btn-icon-left ui-shadow">Hospital</a>
+			<a href="#maps" class="ui-btn ui-corner-all ui-icon-navigation ui-btn-icon-left ui-shadow">Directions</a>
+		</div>
+	</section>
+	<!-- /content -->
+
+	<footer data-role="footer">
+		<nav data-role="navbar">
+			<ul id="studentmenu">
+				<li li-id="0">
+					<a href="#students" class="ui-btn ui-icon-bruno ui-btn-icon-top" data-transition="slidedown">Bruno</a>
+				</li>
+				<li li-id="1">
+					<a href="#students" class="ui-btn ui-icon-douglas ui-btn-icon-top" data-transition="slidedown">Douglas</a>
+				</li>
+				<li li-id="2">
+					<a href="#students" class="ui-btn ui-icon-choi ui-btn-icon-top" data-transition="slidedown">Myungsuk</a>
+				</li>
+				<li li-id="3">
+					<a href="#students" class="ui-btn ui-icon-lee ui-btn-icon-top" data-transition="slidedown">Sungwoo</a>
+				</li>
+			</ul>
+		</nav>
+	</footer>
+</div>
+
+<div data-role="dialog" id="students">
+	<div data-role="header" id="studentheader"></div>
+	<section data-role="content" id="student-content">
+		<div class="ui-grid-a">
+			<div class="ui-block-a" style="width:35%">
+			</div>
+			<div class="ui-block-b" style="width:65%"></div>
+		</div>
+	</section>
+	<!-- /content -->
+</div>
+<!-- /students popup page -->
+
+
+
+<div data-role="page" id="terms">
+
+	<header data-role="header">
+		<h1 class="ui-title">Sunnybrook Hospital</h1>
+		<a href="#sidemenu" class="ui-btn ui-icon-bars ui-btn-icon-notext ui-corner-all"></a>
+	</header>
+
+	<section class="ui-content" role="main">
+
+		<!-- main content with hospital terms in collapsible set -->
+		<section class="ui-content" role="main" data-role="collapsibleset" id="termsCollapsible" data-inset="true" data-filter="true"></section>
+
+	</section>
+
+	<footer data-role="footer">
+		<nav data-role="navbar">
+			<ul id="studentmenu">
+				<li li-id="0">
+					<a href="#students" class="ui-btn ui-icon-bruno ui-btn-icon-top" data-transition="slidedown">Bruno</a>
+				</li>
+				<li li-id="1">
+					<a href="#students" class="ui-btn ui-icon-douglas ui-btn-icon-top" data-transition="slidedown">Douglas</a>
+				</li>
+				<li li-id="2">
+					<a href="#students" class="ui-btn ui-icon-choi ui-btn-icon-top" data-transition="slidedown">Myungsuk</a>
+				</li>
+				<li li-id="3">
+					<a href="#students" class="ui-btn ui-icon-lee ui-btn-icon-top" data-transition="slidedown">Sungwoo</a>
+				</li>
+			</ul>
+		</nav>
+	</footer>
+
+	<!-- Side Menu -->
+	<div id="sidemenu" data-role="panel">
+		<h3 style="text-align:center;">Menu</h3>
+
+		<fieldset data-role="controlgroup">
+			<a href="#home"  class="ui-btn ui-icon-home ui-btn-icon-left ui-btn-corner-all">Home</a>
+			<a href="#terms"  class="ui-btn ui-icon-bullets ui-btn-icon-left ui-btn-corner-all">Terms</a>
+			<a href="#hospital"  class="ui-btn ui-icon-info ui-btn-icon-left ui-btn-corner-all">Hospital</a>
+			<a href="#maps" class="ui-btn ui-icon-location ui-btn-icon-left ui-btn-corner-all">Directions</a>
+		</fieldset>
+
+	</div>
+	<!-- /side menu  -->
+
+</div>
+<!-- / terms page -->
+
+<div data-role="page" id="hospital">
+
+	<header data-role="header">
+		<h1 class="ui-title">Sunnybrook Hospital</h1>
+		<a href="#sidemenuh" class="ui-btn ui-icon-bars ui-btn-icon-notext ui-corner-all"></a>
+	</header>
+
+	<section class="ui-content" role="main">
+		<div class="ui-grid-a">
+			<!-- Button 1 -->
+			<section class="ui-block-a">
+				<a href="#departmentPop" data-rel="popup" data-transition="pop" class="ui-btn ui-icon-info ui-btn-icon-left" id="part1">Part1</a>
+
+			</section>
+
+			<!-- Button 2 -->
+			<section class="ui-block-b">
+				<a href="#departmentPop" data-rel="popup" data-transition="pop" class="ui-btn ui-icon-info ui-btn-icon-left" id="part2">Part2</a>
+
+			</section>
+		</div>
+
+		<div class="ui-grid-a">
+			<!-- Button 3 -->
+			<section class="ui-block-a">
+				<a href="#departmentPop" data-rel="popup" data-transition="pop" class="ui-btn ui-icon-info ui-btn-icon-left" id="part3">Part3</a>
+
+			</section>
+
+			<!-- Button 4 -->
+			<section class="ui-block-b">
+				<a href="#departmentPop" data-rel="popup" data-transition="pop" class="ui-btn ui-icon-info ui-btn-icon-left" id="part4">Part4</a>
+
+			</section>
+		</div>
+
+		<div id="infoTitle"></div>
+
+		<div class="ui-grid-a">
+			<section class="ui-block-a">
+				<div id="hostpitalInfo1">a</div>
+			</section>
+
+			<section class="ui-block-b">
+				<div id="hostpitalInfo2">b</div>
+			</section>
+		</div>
+
+
+	</section>
+
+
+
+	<footer data-role="footer">
+		<nav data-role="navbar">
+			<ul id="studentmenu">
+				<li li-id="0">
+					<a href="#students" class="ui-btn ui-icon-bruno ui-btn-icon-top" data-transition="slidedown">Bruno</a>
+				</li>
+				<li li-id="1">
+					<a href="#students" class="ui-btn ui-icon-douglas ui-btn-icon-top" data-transition="slidedown">Douglas</a>
+				</li>
+				<li li-id="2">
+					<a href="#students" class="ui-btn ui-icon-choi ui-btn-icon-top" data-transition="slidedown">Myungsuk</a>
+				</li>
+				<li li-id="3">
+					<a href="#students" class="ui-btn ui-icon-lee ui-btn-icon-top" data-transition="slidedown">Sungwoo</a>
+				</li>
+			</ul>
+		</nav>
+	</footer>
+
+	<!-- Side Menu -->
+	<div id="sidemenuh" data-role="panel">
+		<h3 style="text-align:center;">Menu</h3>
+
+		<fieldset data-role="controlgroup">
+			<a href="#home"  class="ui-btn ui-icon-home ui-btn-icon-left ui-btn-corner-all">Home</a>
+			<a href="#terms"  class="ui-btn ui-icon-bullets ui-btn-icon-left ui-btn-corner-all">Terms</a>
+			<a href="#hospital"  class="ui-btn ui-icon-info ui-btn-icon-left ui-btn-corner-all">Hospital</a>
+			<a href="#maps" class="ui-btn ui-icon-location ui-btn-icon-left ui-btn-corner-all">Directions</a>
+		</fieldset>
+
+	</div>	<!-- side menu end -->
+
+
+	<div data-role="popup" data-overlay-theme="b" id="departmentPop">
+
+		<!-- Add Close button -->
+		<a href="#" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-icon-delete
+										ui-btn-icon-notext ui-btn-right">Close</a>
+
+		<div class="ui-title" id="depTitle"></div>
+		<div class="ui-grid-a">
+			<section class="ui-block-a">
+				<h4 id="depDesc"></h4>
+			</section>
+
+			<section class="ui-block-b">
+				<div id="depImg"></div>
+			</section>
+		</div>
+	</div>
+
+
+</div> <!-- / hospital page -->
+
+<div data-role="popup" id="depts"></div>
+
+<div data-role="page" id="maps">
+	<header data-role="header" >
+		<h1 class="ui-title">Geo Location</h1>
+		<a href="#sidemenusd" class="ui-btn ui-icon-bars ui-btn-icon-notext ui-corner-all"></a>
+	</header>
+	<section class="ui-content" role="main">
+		<div id="mapCanvas"></div>
+	</section>
+
+	<!-- Side Menu -->
+	<div id="sidemenusd" data-role="panel">
+		<h3 style="text-align:center;">Menu</h3>
+
+		<fieldset data-role="controlgroup">
+			<a href="#home"  class="ui-btn ui-icon-home ui-btn-icon-left ui-btn-corner-all">Home</a>
+			<a href="#terms"  class="ui-btn ui-icon-bullets ui-btn-icon-left ui-btn-corner-all">Terms</a>
+			<a href="#hospital"  class="ui-btn ui-icon-info ui-btn-icon-left ui-btn-corner-all">Hospital</a>
+			<a href="#maps" class="ui-btn ui-icon-location ui-btn-icon-left ui-btn-corner-all">Directions</a>
+		</fieldset>
+
+	</div>
+	<footer data-role="footer">
+		<nav data-role="navbar">
+			<ul id="studentmenu">
+				<li li-id="0">
+					<a href="#students" class="ui-btn ui-icon-bruno ui-btn-icon-top" data-transition="slidedown">Bruno</a>
+				</li>
+				<li li-id="1">
+					<a href="#students" class="ui-btn ui-icon-douglas ui-btn-icon-top" data-transition="slidedown">Douglas</a>
+				</li>
+				<li li-id="2">
+					<a href="#students" class="ui-btn ui-icon-choi ui-btn-icon-top" data-transition="slidedown">Myungsuk</a>
+				</li>
+				<li li-id="3">
+					<a href="#students" class="ui-btn ui-icon-lee ui-btn-icon-top" data-transition="slidedown">Sungwoo</a>
+				</li>
+			</ul>
+		</nav>
+	</footer>
+</div>	<!-- side menu end -->
+<!-- / location page -->
+
+</body>
+</html>

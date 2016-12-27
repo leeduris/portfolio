@@ -1,0 +1,43 @@
+{
+  "hospital": {
+    "name" :  "Sunnybrook Hospital",
+    "address": "2075 Bayview Ave.",
+    "city" : "Toronto",
+    "province" : "ON",
+    "postal" :"M4N 3M5",
+    "url" : "sunnybrook.ca",
+    "phone" : "416-480-6100",
+    "lat" : 43.721011,
+    "long" :-79.378837,
+    "department" : [
+      {
+        "area" : "Anesthesia",
+        "description" : "The Department of Anesthesia offers clinical and/or research fellowship positions in cardiac, regional and general anesthesia, medical simulation, trauma, chronic pain, and obstetrical anesthesia.",
+        "head" : "John Doe",
+        "contact" : "jdoe@sunnybrook.ca",
+        "image" : "_images/anesthesia.jpeg"
+      },
+      {
+        "area" : "Ophthalmology",
+        "description" : "We provide comprehensive eye care and offer medical, laser and surgical therapies for eye disease. Our surgeons have expertise in cornea, cataract, glaucoma and retinal surgery. We offer extensive diagnostic testing including visual fields, fluorescein angiography, Heidelberg retinal tomography, ocular coherence tomography, A and B-scan ultrasound, and IOL master measurements.",
+        "head" : "Albert Lee",
+        "contact" : "alee@sunnybrook.ca",
+        "image" : "_images/opthalmology_care.jpg"
+      },
+      {
+        "area" : "Plastic Surgery",
+        "description" : "Plastic surgery is a surgical specialty that treats patients to try and correct form and function. Plasticos is an ancient word meaning molding or shaping. Plastic surgery includes the fields of burn surgery, craniofacial surgery, hand surgery, microsurgery, reconstructive surgery, breast surgery, oncology (cancer) surgery and aesthetic (cosmetic) surgery. Our patients receive exemplary care.",
+        "head" : "Tim Smith",
+        "contact" : "tsmith@sunnybrook.ca",
+        "image" : "_images/plasticSurgery.jpeg"
+      },
+      {
+        "area" : "Psychiatry",
+        "description" : "Mental illness impacts in multiple ways. If left undetected and/or untreated, it can paralyze individuals, loved ones, families, colleagues, and communities.We are here to help individuals and their families identify mental illness and get the help they need when they need it most. We aim to fill that role by creating new approaches to patient care, leading innovative research, and educating future care providers.",
+        "head" : "Susan White",
+        "contact" : "swhite@sunnybrook.ca",
+        "image" : "_images/psychiatry.jpg"
+      }
+    ]
+  }
+}

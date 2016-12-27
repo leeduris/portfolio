@@ -1,0 +1,30 @@
+{
+  "student": [ 
+  	{
+	    "name": "Bruno Petla",
+	    "login":  "petlab",
+	    "id" : "991413693",
+	    "pic" : "bruno_profile.jpeg"
+	}, 
+
+	{
+	    "name": "Douglas Petla",
+	    "login": "petla",
+	    "id" : "991413692",
+	    "pic" : "douglas_profile.jpg"
+	}, 
+
+	{
+	    "name": "Myungsuk Choi ",
+	    "login": "choimy",
+	    "id" : "991388329",
+	    "pic" : "Myungsuk_Choi.jpg"
+	}, 
+
+	{
+	    "name": "Sungwoo Lee",
+	    "login": "leesungws",
+	    "id" : "991419484",
+	    "pic" : "sungwoo_profile.jpg"
+	} ]
+}
