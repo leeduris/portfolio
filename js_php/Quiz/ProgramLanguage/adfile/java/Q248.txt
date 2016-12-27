@@ -1,2 +1,0 @@
-<label class = 'title'>Implement MyStack using inheritance</label>
-Define a new stack class that extends ArrayList. Write a test program that prompts the user to enter five strings and displays them in reverse order.

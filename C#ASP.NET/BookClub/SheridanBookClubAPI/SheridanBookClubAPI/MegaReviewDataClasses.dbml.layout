@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MegaReviewDataClasses">
+  <DataContextMoniker Name="/MegaReviewDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="91dcbeb5-4caf-4557-a2de-3d8c36946630" absoluteBounds="1.75, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MegaReviewDataClassesDataContext/Review" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e77c7cdc-aefb-44ac-b00b-62cae94e9a90" absoluteBounds="1.7650000000000001, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

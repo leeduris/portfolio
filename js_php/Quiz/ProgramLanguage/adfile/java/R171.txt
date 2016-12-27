@@ -1,2 +1,0 @@
-Enter an integer: -10
-The 16 bits are 1111111111110110

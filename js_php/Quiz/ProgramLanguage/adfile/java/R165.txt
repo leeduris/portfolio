@@ -1,3 +1,0 @@
-Enter your two digits lottery pick: 14
-Match one digit: you win $1,000
-Lottery is 94

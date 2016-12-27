@@ -1,2 +1,0 @@
-Enter a string: Hello Java
-el aa

@@ -1,2 +1,0 @@
-<label class = 'title'>Large prime numbers</label>
-Write a program that finds five prime numbers larger than Long.MAX_VALUE.

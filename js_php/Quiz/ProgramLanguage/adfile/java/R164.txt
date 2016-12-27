@@ -1,4 +1,0 @@
-Enter the amount to be saved for each month: 1000
-Enter the annual interest rate: 2.1
-Enter the number of months: 12
-After the 12th month, the account value is 12137.379719051985

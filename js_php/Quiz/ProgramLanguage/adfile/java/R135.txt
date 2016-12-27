@@ -1,3 +1,0 @@
-Enter point 1 (latitude and longitude) in degrees: 37.6  -127
-Enter point 2 (latitude and longitude) in degrees: 43.45 79.683
-The distance between the two points is 10609.356146730808 km

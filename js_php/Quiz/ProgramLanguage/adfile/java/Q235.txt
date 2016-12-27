@@ -1,5 +1,0 @@
-<label class = 'title'>The BMI class</label>
-Add the following new constructor in the BMI class:
-
-/** Construct a BMI with the specified name, age, weight, feet, and inches */
-public BMI(String name, int age, double weight, double feet, double inches)

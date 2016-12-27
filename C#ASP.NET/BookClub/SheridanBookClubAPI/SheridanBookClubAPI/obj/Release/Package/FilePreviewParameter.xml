@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="finalapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubAPI\\SheridanBookClubAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubAPI\\SheridanBookClubAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BooksConnectionString-Web.config Connection String" description="" value="Data Source=sheridancollege.database.windows.net;Initial Catalog=Books;Persist Security Info=True;User ID=stan;Password=SheridanCollege2017" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubAPI\\SheridanBookClubAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BooksConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="ReviewsConnectionString-Web.config Connection String" description="" value="Data Source=sheridancollege.database.windows.net;Initial Catalog=Reviews;Persist Security Info=True;User ID=stan;Password=SheridanCollege2017" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubAPI\\SheridanBookClubAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ReviewsConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

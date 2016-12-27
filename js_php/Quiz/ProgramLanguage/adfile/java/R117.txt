@@ -1,9 +1,0 @@
-Enter an amount in integer, for example 1156 
-for 11 dollars and 56 cents: 1478
-
-Your amount 1478 consists of 
-14 dollars
-3 quarters
-0 dimes
-0 nickels
-3 pennies

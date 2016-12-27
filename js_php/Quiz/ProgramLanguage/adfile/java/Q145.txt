@@ -1,8 +1,0 @@
-<label class = 'title'>Check substring</label>
-Write a program that prompts the user to enter two strings and
-reports whether the second string is a substring of the first string.
-
-Here is a sample run:
-Enter string s1: ABCD
-Enter string s2: BC
-BC is a substring of ABCD

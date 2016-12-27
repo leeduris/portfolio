@@ -1,4 +1,0 @@
-<label class = 'title'>Generate random characters</label>
-Defines a class named RandomCharacter with five overloaded methods
-to get a certain type of character randomly print 100 uppercase
-letters and then 100 single digits, printing ten per line.

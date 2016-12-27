@@ -1,6 +1,0 @@
-year: 2015
-month: 11
-day: 6
-year: 1987
-month: 9
-day: 18

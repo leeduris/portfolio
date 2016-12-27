@@ -1,2 +1,0 @@
-<label class = 'title'>Display current date and time</label>
-Write the program on how to find the year, month, and day.

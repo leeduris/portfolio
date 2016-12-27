@@ -1,8 +1,0 @@
-Enter the number of students: 3
-Enter a student name: Alex
-Enter a student score: 90
-Enter a student name: Jane
-Enter a student score: 89
-Enter a student name: Hue
-Enter a student score: 98
-Top student Hue's score is 98.0

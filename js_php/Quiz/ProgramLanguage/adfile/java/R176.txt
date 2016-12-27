@@ -1,2 +1,0 @@
-Enter an integer: 234576
-675432

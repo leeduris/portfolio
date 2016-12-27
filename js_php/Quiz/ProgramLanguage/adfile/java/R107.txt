@@ -1,3 +1,0 @@
-Enter the radius and length of a cylinder: 14.7 17.2
-The area is 678.8661831
-The volume of the cylinder is 11676.498349319998

@@ -1,2 +1,0 @@
-Enter the desired commission: 50000
-The sales amount 419168.0 is needed to make a commission of $50000.0

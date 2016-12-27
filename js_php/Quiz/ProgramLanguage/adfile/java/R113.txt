@@ -1,3 +1,0 @@
-Enter weight in pounds: 50
-Enter height in inches: 180
-BMI is 1.0849839191962334

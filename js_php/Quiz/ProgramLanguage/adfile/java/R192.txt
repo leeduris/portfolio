@@ -1,3 +1,0 @@
-Enter the number of sides: 9
-Enter the side: 7
-The area of the polygon is 302.90938549487214

@@ -1,2 +1,0 @@
-Enter a number: 1748
-The sum of digits for 1748 is 20

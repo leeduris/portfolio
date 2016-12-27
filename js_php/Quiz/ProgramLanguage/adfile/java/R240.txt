@@ -1,5 +1,0 @@
-Area is 4.37
-Perimeter is 21.84
-true
-false
-false

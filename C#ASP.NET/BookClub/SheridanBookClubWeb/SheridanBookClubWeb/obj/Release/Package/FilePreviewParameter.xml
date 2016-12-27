@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="finalweb" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubWeb\\SheridanBookClubWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\SheridanClass\\fallYear2016\\C\#&amp;\.NET\\visualStudioProject\\SheridanBookClubWeb\\SheridanBookClubWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

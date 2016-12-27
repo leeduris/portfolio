@@ -1,3 +1,0 @@
-Enter string s1: Hello, Java !
-Enter string s2: Java
-Java is a substring of Hello, Java !

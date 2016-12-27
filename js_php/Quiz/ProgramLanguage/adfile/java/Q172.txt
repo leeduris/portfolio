@@ -1,7 +1,0 @@
-<label class = 'title'>Reverse a string</label>
-Write a program that prompts the user to enter a string and
-displays the string in reverse order.
-
-Here are sample runs:
-Enter a string: ABCD
-The reversed string is DCBA

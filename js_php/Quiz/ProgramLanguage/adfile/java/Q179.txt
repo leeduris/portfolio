@@ -1,4 +1,0 @@
-<label class = 'title'>Use the isPrime Method</label>
-the isPrime(int number) method is for testing whether a number is prime.
-Use this method to find the prime numbers and the number of prime numbers
-less than the number users enter.

@@ -1,3 +1,0 @@
-Enter a positive integer: 98
-The factors for 98 is
-2, 7, 7

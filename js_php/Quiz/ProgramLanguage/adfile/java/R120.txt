@@ -1,5 +1,0 @@
-Enter weight in pounds: 121
-Enter feet: 6
-Enter inches: 13
-BMI is 11.774590883922256
-Underweight

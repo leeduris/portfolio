@@ -1,2 +1,0 @@
-Enter ten numbers: 6 0 7 4 12 45 1 7 2 8
-The index of the min is 1

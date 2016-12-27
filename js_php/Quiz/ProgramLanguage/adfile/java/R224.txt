@@ -1,9 +1,0 @@
-Enter m1 (a 3 by 3 matrix) row by row:
-9 6 1
-2 0 7
-3 4 5
-Enter m2 (a 3 by 3 matrix) row by row:
-9 6 1
-2 1 7
-3 4 5
-The two arrays are not strictly identical

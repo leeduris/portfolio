@@ -1,3 +1,0 @@
-Enter the first number: 48
-Enter the second number: 78
-GCD of 48 and 78 is 6

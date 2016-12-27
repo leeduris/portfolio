@@ -1,3 +1,0 @@
-<label class = 'title'>Game: craps</label>
-Run the game craps 100,000 times and display the number
-of winning games.

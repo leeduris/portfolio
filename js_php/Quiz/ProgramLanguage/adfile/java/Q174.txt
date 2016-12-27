@@ -1,7 +1,0 @@
-<label class = 'title'>Count uppercase letters</label>
-Write a program that prompts the user to enter a string
-and displays the number of the uppercase letters in the string.
-
-Here are sample runs:
-Enter a string: Welcome to Java
-The number of uppercase letters is 2

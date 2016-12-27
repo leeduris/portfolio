@@ -1,7 +1,0 @@
-<label class = 'title'>Process string</label>
-Write a program that prompts the user to enter a string and displays
-the characters at odd positions.
-
-Here are sample runs:
-Enter a string: Beijing Chicago
-BiigCiao

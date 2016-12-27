@@ -1,3 +1,0 @@
-<label class = 'title'>addition quiz</label>
-Write the program to randomly generate an addition question
-with two integers less than 100.

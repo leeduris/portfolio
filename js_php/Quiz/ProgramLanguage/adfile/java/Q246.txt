@@ -1,2 +1,0 @@
-<label class = 'title'>Implement the Character class</label>
-The Character class is provided in the Java library. Provide your own implementation for this class. Name the new class MyCharacter.
