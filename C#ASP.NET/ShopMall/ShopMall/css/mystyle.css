@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+
+.div-style1 {
+    text-align: center;
+    margin-top: 2%;
+    color: orange;
+}
+
+.div-style2 {
+    text-align: center;
+    margin: 7%;
+}
+
+
+.div-style3 {
+    margin: 2%;
+    float: left;
+}
+
+.div-style4 {
+    margin-top: 1.5%;
+
+}
+
+.div-style5, .div-style6 {
+    text-align: center;
+    color: blue;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0;
+}
+
+
+.phoneImg {
+    margin: 0 30px 0 30px;
+}
+
+#addCart {
+    background-color: orange;
+}
+
