@@ -1,0 +1,2 @@
+Enter a string: The Number Of Uppercase Letters
+The number of uppercase letters is 5

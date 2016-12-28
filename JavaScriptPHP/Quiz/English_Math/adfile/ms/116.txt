@@ -1,0 +1,17 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+A cattle train left Miami and traveled toward New York. 14 hours later a diesel train left traveling at 45 km/h in an effort to catch up to the cattle train. After traveling for four hours the diesel train finally caught up. What was the cattle train's average speed?
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 km/h

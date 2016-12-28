@@ -1,0 +1,2 @@
+<label class = 'title'>Check Sudoku solution</label>
+Sudoku is a 9 * 9 grid divided into smaller 3 * 3 boxes (also called regions or blocks). Some cells, called fixed cells, are populated with numbers from 1 to 9. The objective is to fill the empty cells, also called free cells, with the numbers 1 to 9 so that every row, every column, and every 3 * 3 box contains the numbers 1 to 9. Write the program that prompts the user to enter a solution and reports whether it is valid by checking whether every row, every column, and every small box has the numbers 1 to 9.

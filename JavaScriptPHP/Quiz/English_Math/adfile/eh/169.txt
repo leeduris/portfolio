@@ -1,0 +1,23 @@
+6
+<h1>Express an opinion</h1>
+If you have to hire a new employee, would you hire an experienced worker with higher salary, or would you hire an inexperienced worker with lower salary?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>experienced worker with hogh pay.....</h3>
+one experienced workers work more efficiently than several inexperienced workers
+they make least damage and loss on the business because they know how to deal with problems from their experience.
+
+<h3>inexperienced workers with lower pay.....</h3>
+some work doesn't need high quality skills or experience, it needs just labor or time.
+some experienced workers are too expensive so the company needs more budget, but their work is not worth the high pay

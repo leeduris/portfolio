@@ -1,0 +1,4 @@
+The BMI for John Doe is 20.81 normal weight
+18
+The BMI for Peter King is 30.85 seriously over weight
+30

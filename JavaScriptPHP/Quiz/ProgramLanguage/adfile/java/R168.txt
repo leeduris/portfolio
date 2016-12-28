@@ -1,0 +1,2 @@
+Enter an integer: 48
+48's octal representation is 60

@@ -1,0 +1,24 @@
+6
+<h1>Express an opinion</h1>
+Some restaurants are famous for having good food but a poor atmosphere. Other restaurants have wonderful atmosphere but poor quality food. Which do you think is better and why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>choose poor atmosphere and good food.....</h3>
+After eating poor food, it is hard to enjoy going out to the same restaurant again.
+Even if a restaurant is loud, dirty, and in a bad location, it is OK if the food is good.
+it is better that the cook is too busy to take care of the restaurant's atmosphere, but takes care of the restaurant's food.
+
+<h3>good atmosphere and poot food.....</h3>
+the atmosphere is very important when I have meals for business.
+Even if the food is just average, I can still impress my clients with good service, nice people and a fantastic atmosphere.

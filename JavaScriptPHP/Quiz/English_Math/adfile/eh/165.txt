@@ -1,0 +1,23 @@
+6
+<h1>Express an opinion</h1>
+Is it better to enjoy your money when you earn it, or is it better to save your money for some time in the future?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>save your money.....</h3>
+be able to live comfortable lives when I retire
+people live longer, so they can enjoy money later in life
+
+<h3>enjoy it.....</h3>
+use my money to buy something that I like
+treating my self well encourages me to work more and better

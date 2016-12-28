@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>JavaScript Events</h1>
+
+    <p><kbd>Here is a list of some common HTML events:</kbd></p>
+    <table>
+      <tr><th>Event</th><th>Description</th></tr>
+      <tr><td>onchange</td><td>An HTML element has been changed</td></tr>
+      <tr><td>onclick</td><td>The user clicks an HTML element</td></tr>
+      <tr><td>onmouseover</td><td>The user moves the mouse over an HTML element</td></tr>
+      <tr><td>onmouseout</td><td>The user moves the mouse away from an HTML element</td></tr>
+      <tr><td>onkeydown</td><td>The user pushes a keyboard key</td></tr>
+	    <tr><td>onload</td><td>The browser has finished loading the page</td></tr>
+	  </table>
+
+    <p><kbd>The JavaScript code changes the content of the element.</kbd></p>
+    <p><button onclick="getElementById('idjs132').innerHTML=Date()">Using innerHTML</button></p>
+    <p><cite id="idjs132">The time is?</cite></p>
+
+    <p><kbd>the code changes the content of its own element (using this.innerHTML)</kbd></p>
+    <p><cite><button onclick="this.innerHTML=Date()">The time is?</button></cite></p>
+
+    <p><kbd>It is more common to see event attributes calling functions.</kbd></p>
+    <p><button onclick="functionjs132()">Calling functions</button></p>
+    <p><cite id="idjs132_1">The time is?</cite></p>
+
+    <script>
+      function functionjs132() {
+          document.getElementById("idjs132_1").innerHTML = Date();
+      }
+    </script>
+
+  </body>
+</html>

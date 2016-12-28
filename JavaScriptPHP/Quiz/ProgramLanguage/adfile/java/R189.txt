@@ -1,0 +1,7 @@
+You rolled 6 + 3 = 9
+point is 9
+You rolled 1 + 1 = 2
+You rolled 4 + 2 = 6
+You rolled 3 + 5 = 8
+You rolled 6 + 1 = 7
+You lose

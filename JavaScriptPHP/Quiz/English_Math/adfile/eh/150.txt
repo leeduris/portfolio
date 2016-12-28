@@ -1,0 +1,24 @@
+6
+<h1>Express an opinion</h1>
+Some people trust their first impression about a person's character because they belive these judgments are generally correct. Other people do not judge a person's character quickly because they believe first impressions are often wrong. Which attitude do you agree with?
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>First impression.....</h3>
+Sometimes, first impression is enough to tell who you are and what you are.
+It can be more than 50% correct.
+People's judgement is made from their experience and instincts.
+
+<h3>Not first impression.....</h3>
+Generally, it's dangerous to belive your first impression and judge people by it.
+People can be totally different from how they look.
+It takes time to judge people if someone is good or bad.

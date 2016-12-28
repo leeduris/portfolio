@@ -3,6 +3,6 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
-/JAVA/
-/JavaScriptPHP/
 /jQueryMobile/
+/JAVA/
+/C#ASP.NET/

@@ -1,0 +1,7 @@
+<label class = 'title'>Prime Number</label>
+Whether a number n is prime can be verified by checking whether
+any of the prime numbers less than or equal to √n can divide n
+evenly. If not, n is prime.
+Display the first 50 prime numbers using this approach.
+You need to use an array to store the prime numbers and later use
+them to check whether they are possible divisors for n.

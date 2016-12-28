@@ -1,0 +1,5 @@
+Enter the amount of water in kilograms: 100
+Enter the initial temperature: 25
+Enter the final temperature: 100
+The energy needed is 3.138E7
+

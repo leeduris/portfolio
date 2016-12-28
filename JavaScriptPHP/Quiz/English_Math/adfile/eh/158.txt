@@ -1,0 +1,23 @@
+6
+<h1>Express an opinion</h1>
+Do you prefer or travel by public transportation or to travel by your own car?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>public transportation.....</h3>
+can be more convenient, quicker, and cheaper.
+causes less pollution, and so it is better for the environment
+
+<h3>your own car.....</h3>
+public transportation can be stressful in the rush hour.
+normally more reliable, because you can leave when you want to and you don't have to wait.

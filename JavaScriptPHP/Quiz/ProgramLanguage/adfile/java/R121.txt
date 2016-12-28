@@ -1,0 +1,2 @@
+Enter three integers: 10 1 5
+The sorted numbers are 1 5 10

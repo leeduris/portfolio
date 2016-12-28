@@ -1,0 +1,6 @@
+1111
+1011
+1100
+0000
+The largest row index: 0
+The largest column index: 0

@@ -1,0 +1,2 @@
+Enter a, b, c: 2 9 -6
+The roots are 0.59 and -5.09

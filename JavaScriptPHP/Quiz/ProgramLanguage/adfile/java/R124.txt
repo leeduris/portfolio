@@ -1,0 +1,2 @@
+Guess head or tail? Enter 0 for head and 1 for tail: 0
+Correct guess

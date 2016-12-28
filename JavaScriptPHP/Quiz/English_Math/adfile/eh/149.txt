@@ -1,0 +1,23 @@
+6
+<h1>Express an opinion</h1>
+Do you agree or disagree with the following statement? There is nothing that young people can teach older people.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>Yes.....</h3>
+Young people are unexperienced and immature.
+They make more mistakes
+
+<h3>No.....</h3>
+They know more and teach new fields such as the Internet and cell phones
+It's dangerous to think that getting old means getting smart or knowing everything

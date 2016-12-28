@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Using document.write()</h1>
+
+    <p><kbd>Problem: 5+6</kbd></p>
+
+    <p><button type="button" onclick="functionjs110()">Solution</button></p>
+
+    <script>
+        function functionjs110() {
+          var newWindow = window.open("", "Solution","width=5px, height=5px");
+          newWindow.document.write(5+6);
+        }
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,7 @@
+<label class = 'title'>Hex to binary</label>
+Write a program that prompts the user to enter a hex digit and
+displays its corresponding binary number. 
+
+Here is a sample run:
+Enter a hex digit: B
+The binary value is 1011

@@ -1,0 +1,2 @@
+Enter the side: 8
+The area of the hexagon is 166.272

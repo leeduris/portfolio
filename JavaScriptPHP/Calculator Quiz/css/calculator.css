@@ -1,0 +1,49 @@
+ /*
+  * This is the main css to give index file style.
+  *
+  * name: Sung Woo Lee(leeduris@gmail.com)
+  * create date: Feb 13 2016
+  * update date: Feb 17 2016
+  */
+
+    /*let all objects have absolute position*/  
+    .number, .operator, .clear, .equal, .display, 
+    .title,  .score, .quiz, .submit, .border 
+    {
+        position: absolute;
+    }
+
+    /*calculator button*/
+    img
+    {
+        padding-top: 10%;
+        padding-left: 10%;
+    }
+
+    /*seraching form*/
+    #search
+    {
+        margin-left: 8%;
+        margin-top: 5%;
+        float: left;
+    }      
+
+    /*drop list select form*/
+    #selection
+    {
+        margin-left: 3%;
+        margin-top: 5%;
+    }
+
+    /*quiz radio option*/
+    .radio
+    {
+        margin-left: 3%;
+        color: blue;
+    }
+
+    /*quiz submit button*/
+    .inputCal
+    {
+        margin-left: 12%;
+    }

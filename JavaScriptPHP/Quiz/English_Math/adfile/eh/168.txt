@@ -1,0 +1,24 @@
+6
+<h1>Express an opinion</h1>
+Do you agree or disagree with this statement? A good supervisor listens to others before making a decision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>listen to others.....</h3>
+even a good supervisor can make a mistake, so he has to listen to others and make the best decision.
+if a supervisor listen to others and accept their ideas, the team members feel proud of themselves and work harder as they feel responsible for the decision.
+
+<h3>don't listen to others.....</h3>
+one of the supervisor's jobs is making a fast and good decision.
+if too many people are involved in making a decision, it will take a long time and everybody has their own ideas and favors.
+it's not easy to make everybody happy and the supervisor looks indecisive and untrusty.

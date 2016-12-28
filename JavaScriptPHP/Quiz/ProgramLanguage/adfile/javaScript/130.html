@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Local JavaScript Variables</h1>
+
+    <p><kbd>Variables declared within a JavaScript function, become LOCAL to the function.</kbd></p>
+    <p><kbd>Local variables have local scope: They can only be accessed within the function.</kbd></p>
+
+    <p><cite id="idjs130"></cite></p>
+
+    <script>
+      functionjs130();
+      document.getElementById("idjs130").innerHTML =
+      "I can display " + typeof carNamejs130;
+
+      function functionjs130() {
+          var carNamejs130 = "Volvo";
+      }
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,22 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+A race course is 400 m long. A and B run a race and A wins by 5m. B and C run over the same course and B win by 4m. C and D run over it and D wins by 16m. If A and D run over it, then who would win and by how much?
+
+
+
+
+
+
+
+
+
+
+
+
+
+If A covers 400m, B covers 395 m
+If B covers 400m, C covers 396 m
+If D covers 400m, C covers 384 m
+Now if B covers 395 m, then C will cover (396/400) ×3 95 = 391.05m
+If C covers 391.05 m, then D will cover (400/384) × 391.05 = 407.24
+If A and D run over 400 m, then D win by 7.2 m (approx.)

@@ -1,0 +1,25 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+A good train and a passenger train are running on parallel tracks in the same direction. The driver of the goods train observes that the passenger train coming from behind overtakes and crosses his train completely in 60 sec. Whereas a passenger on the passenger train marks that he crosses the goods train in 40 sec. If the speeds of the trains be in the ratio 1:2. Find the ratio of their lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let the speeds of the two trains be s and 2s m/s respectively.
+Also, suppose that the lengths of the two trains are P and Q metres respectively.
+Then,
+(P+Q) / (2s−s) = 60------(1)
+and
+P / (2s−s) = 40------(2)
+On dividing these two equation we get:
+(P+Q) / P = 60/40
+P:Q = 2 : 1

@@ -1,0 +1,2 @@
+Enter balance and annual interest rate: 500000 3.0
+The interest is 1250.0

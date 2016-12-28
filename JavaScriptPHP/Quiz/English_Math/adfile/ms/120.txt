@@ -1,0 +1,17 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+Ryan left the science museum and drove south. Gabriella left three hours later driving 42 km/h faster in an effort to catch up to him. After two hours Gabriella finally caught up. Find Ryan's average speed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 km/h

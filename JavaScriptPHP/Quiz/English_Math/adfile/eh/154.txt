@@ -1,0 +1,22 @@
+6
+<h1>Express an opinion</h1>
+Would you rather play an individual sport or a team sport?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joining a sports team is a good way to make friends.
+I would be able to learn new skills.
+It is usually more interesting to play together.
+I can play whenever I want to, without asking people to play with me.
+I need some time alone to think about my self, away from people or jobs.
+I can focus on how or what I'm playing, for example, I can watch out my self while I'm working aut at the gym.

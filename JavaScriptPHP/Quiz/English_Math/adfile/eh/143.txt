@@ -1,0 +1,22 @@
+6
+<h1>Express an opinion</h1>
+Some people prefer to go to concerts. Others prefer listening music at home. Which do you prefer? Why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>concert.....</h3>
+more active and exciting // watch your favorite performers in perrson best experience in your life
+
+<h3>listening at home.....</h3>
+feel comfortable at home (get stressed from people at the concert)
+concerts are very so expensive that I'd rather buy more CDs with that much money

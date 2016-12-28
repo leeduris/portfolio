@@ -1,0 +1,4 @@
+Enter a string for password: 12asdf
+Invalid password
+Enter a string for password: 12asdefrgty
+Valid password

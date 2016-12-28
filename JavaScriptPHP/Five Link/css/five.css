@@ -1,0 +1,14 @@
+	<style>	
+	    /* place all things in the center */
+		section
+		{
+			text-align: center;
+		}
+		
+		button
+		{
+			margin-top: 5%;
+			margin-right: 5%;
+			float: left;
+		}	
+	</style>

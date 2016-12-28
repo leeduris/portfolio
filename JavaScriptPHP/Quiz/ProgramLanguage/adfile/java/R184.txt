@@ -1,0 +1,2 @@
+Enter a string: WeNov2/15!
+The number of letters is 5

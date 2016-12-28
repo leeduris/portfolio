@@ -1,0 +1,14 @@
+Enter a new score: 35
+Enter a new score: 67
+Enter a new score: 12
+Enter a new score: 65
+Enter a new score: 87
+Enter a new score: 42
+Enter a new score: 48
+Enter a new score: 98
+Enter a new score: 56
+Enter a new score: -3
+count is 9
+Average is 56.666666666666664
+Number of scores above or equal to the average 4
+Number of scores below the average 5

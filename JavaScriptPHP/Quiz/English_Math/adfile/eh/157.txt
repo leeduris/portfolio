@@ -1,0 +1,23 @@
+6
+<h1>Express an opinion</h1>
+Some people like to go to the gym to do exercise. Others prefer to cycle to work and take the stairs instead of the elevator. Which way do you prefer to keep healthy? Give reasons for your opinion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>go to the gym.....</h3>
+get advice from the skilled trainers
+use a lot of sport equipment
+
+<h3>exercise as part of my daily lifestyle.....</h3>
+have little time for going to the gym
+do not want to spend money for exercising

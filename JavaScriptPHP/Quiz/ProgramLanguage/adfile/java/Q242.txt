@@ -1,0 +1,2 @@
+<label class = 'title'>Divisible by 2 or 3</label>
+Find the first ten numbers with 50 decimal digits that are divisible by 2 or 3.

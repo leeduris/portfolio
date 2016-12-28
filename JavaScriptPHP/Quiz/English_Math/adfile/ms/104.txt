@@ -1,0 +1,23 @@
+6
+<h1><cite>Algebra 1</cite>Distance-Velocity-Acceleration-Time</h1>
+A train covers a distance in 50 min, if it runs at a speed of 48 kmph on an average. The speed at which the train must run to reduce the time of journey to 40 min will be.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time = 50/60=5/6 hr
+Speed = 48 mph
+Distance  = S×T=48×(5/6) = 40 km
+
+Time = 40/60 hr
+
+New speed = 40×3/2 = 60 kmph

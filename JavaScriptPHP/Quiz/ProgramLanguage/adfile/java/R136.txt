@@ -1,0 +1,2 @@
+Enter the side: 14
+The area of the hexagon is 509.22293742524994
