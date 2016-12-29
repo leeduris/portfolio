@@ -10,7 +10,7 @@ namespace ShopMall
 {
     class DbManager
     {
-        public static string connectionString = @"Data Source=sheridancollege.database.windows.net;Initial Catalog=Products;Persist Security Info=True;User ID=stan;Password=SheridanCollege2017";
+        public static string connectionString = @"Data Source=sheridancollege.database.windows.net;Initial Catalog=Products;Persist Security Info=True;User ID=********;Password=********";
 
         public static DataTable view(string table)
         {
