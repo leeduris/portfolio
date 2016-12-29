@@ -15,13 +15,9 @@ import java.util.ArrayList;
 public class UserDatabase
 {
     // constances for DB access
-    //private static final String DB_URL = "jdbc:mysql://localhost:3306/ejd";
-    //private static final String DB_USER = "root";
-    //private static final String DB_PASS = "PROG32758";
-    //private static final String DB_PASS = "moncton";
-    private static final String DB_URL = "jdbc:mysql://itdoit.csnmvvdfsy9j.us-east-1.rds.amazonaws.com:3306/itDoIt";
-    private static final String DB_USER = "rain";
-    private static final String DB_PASS = "oakville";      
+    private static final String DB_URL = "jdbc:mysql://***********";
+    private static final String DB_USER = "**********";
+    private static final String DB_PASS = "**********";      
 
     // instance vars
     private JdbcHelper jdbc;        
