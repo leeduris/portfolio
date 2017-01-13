@@ -1,0 +1,11 @@
+<form name="todoForm" ng-submit="add(newTodoTitle)">
+  <div class="input-group col-lg-6">
+    <input type="text" class="form-control" name="new_TodoTitle" ng-model="newTodoTitle" placeholder="type a new..." ng-minlength="3">
+    <span class="input-group-btn">
+      <button class="btn btn-success" type="submit">Insert</button>
+    </span>
+  </div>
+ <div class="col-lg-6" ng-show="todoForm.$dirty && todoForm.$invalid">
+  <div class="alert alert-warning" role="alert">Type more than three letters.</div>
+</div>
+</form>
