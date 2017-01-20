@@ -44,7 +44,7 @@
                 <input type="text" placeholder="Enter your last name"  name="lname">
             </div>
             <div> 
-                <input type="text" placeholder="Enter your last name" name="email">
+                <input type="text" placeholder="Enter your email" name="email">
             </div>    
             <div> 
                 <input type="submit" value="Signup">
